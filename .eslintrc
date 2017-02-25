@@ -3,6 +3,9 @@
   "env": {
     "es6": true
   },
+  "globals": {
+    "console": true
+  },
   "parser": "babel-eslint",
   "plugins": [
     "react",
